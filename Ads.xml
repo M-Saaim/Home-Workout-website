@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Images/flowers.jpg</ImageUrl>
+    <NavigateUrl>http://www.yahoo.com</NavigateUrl>
+    <AlternateText>This is flower Image</AlternateText>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>Images/nature.jpg</ImageUrl>
+    <NavigateUrl>http://www.rediffmail.com</NavigateUrl>
+    <AlternateText>This is nature Image</AlternateText>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/koala.jpg</ImageUrl>
+    <NavigateUrl>http://www.facebook.com</NavigateUrl>
+    <AlternateText>This is koala Image</AlternateText>
+  </Ad>
+</Advertisements>
